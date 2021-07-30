@@ -4,7 +4,7 @@ from pycoingecko import CoinGeckoAPI
 import onepinkeypad.onepinkeypad as opk
 
 # Uncomment the line below if you are running this script on startup:
-time.sleep(15)
+# time.sleep(15)
 
 # Define One Pin Keypad Analog Pin:
 pin = 0
